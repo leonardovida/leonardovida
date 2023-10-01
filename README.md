@@ -1,13 +1,12 @@
-👋 Hi, I'm `Leonardo`, and welcome to my GitHub bio.
+👋 Hi, I'm `Leonardo`, a Data Engineer, builder and movie lover.
 
-✍️ I'm a Data Engineer building data platforms within data mesh systems, mainly in Python but occasionaly also in Go
+✍️ I enjoy building data platforms and solving data problems at scale. I mainly code in Python but for my project I also often use Typescript (Next.js).
 
-💡 I enjoy creating side projects using 2-2-2, currently building [nearit.io](https://www.nearit.io/) (hosting community-sourced and ML-enhanced Google Maps list of places across many of the world's main cities), summy.ai (a `davinci-003`-based FAQ app dedicated to universities) and thinkering with LLMs (e.g. [list-convertor](https://list-convertor.vercel.app/))
+💡 I enjoy creating side projects using 2-2-2 and I'm currently building `companio`, a RAG-based trip planner. Whenever I find time I continue to develop [nearit.io](https://www.nearit.io/) (hosting community-sourced and ML-enhanced Google Maps list of places across cities, which generated the idea for `companio`), `summy` (a website to convert universities' FAQs into chatbots) and a chrome extension to search semantically the current webpage. Most of my repositories are private with 
 
-🇳🇱 I'm based in Amsterdam, NL but I fully appreciate remote collaboration (when done thoughtfully)
+🇳🇱 I'm based in Amsterdam (NL), ideally prefer a hybrid workplace, but I also appreciate remote collaboration.
 
-✈️ I love movies, I organize weekly projections across Amsterdam's many independent (and semi-hidden) "projection rooms"
-
+✈️ I like movies (check out my [letterboxed](https://letterboxd.com/leonardovida/)!) and organize weekly projections of classics and gems across Amsterdam's many independent (and often hidden) "projection rooms".
 
 <!--
 **leonardovida/leonardovida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
