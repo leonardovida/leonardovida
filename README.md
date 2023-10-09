@@ -6,7 +6,7 @@
 
 🇳🇱 I'm based in Amsterdam (NL) and I ideally prefer a hybrid workplace, but I also appreciate remote collaboration.
 
-✈️ I like movies (check out my [letterboxed](https://letterboxd.com/leonardovida/)!) and organize weekly projections of classics and gems across Amsterdam's many independent (and often hidden) "projection rooms".
+📽️ I like movies (check out my [letterboxed](https://letterboxd.com/leonardovida/)!) and organize weekly projections of classics and gems across Amsterdam's many independent (and often hidden) "projection rooms".
 
 <!--
 **leonardovida/leonardovida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
