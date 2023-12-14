@@ -1,12 +1,12 @@
 👋 Hi, I'm `Leonardo`, a Data Engineer, builder and movie lover.
 
-✍️ I enjoy building data platforms and solving data problems at scale. I mainly code in Python but for my project I also often use Typescript (Next.js).
+✍️ I enjoy building products and solving data problems at scale. I mainly code in Python but I often use Typescript.
 
-💡 I enjoy creating side projects using 2-2-2 and I'm all-in using LLMs (OpenAI mainly). I'm currently building `companio`, a RAG-based trip planner. Whenever I find time I continue to develop [nearit.io](https://www.nearit.io/) (hosting community-sourced and ML-enhanced Google Maps list of places across cities, which generated the idea for `companio`), `summy` (a website to convert universities' FAQs into chatbots) and a chrome extension to search semantically the current webpage. Most (if not all) of these repositories are currently private.
+💡 I enjoy creating side projects using 2-2-2 and I'm all-in using LLMs (OpenAI mainly). I'm currently building `[cv-copilot](https://github.com/leonardovida/cv-copilot)` (a product to match candidates with job descriptions using LLMs to provide 10X more insights than comparable methods). Whenever I have time I continue developing `companio`, a RAG-based trip planner and a chrome extension to search semantically across open browser pages. 
 
-🇳🇱 I'm based in Amsterdam (NL) and I ideally prefer a hybrid workplace, but I also appreciate remote collaboration.
+🇳🇱 I'm currently based in Amsterdam (NL) and I ideally prefer a hybrid workplace, but I also appreciate remote collaboration.
 
-📽️ I like movies (check out my [letterboxed](https://letterboxd.com/leonardovida/)!) and organize weekly projections of classics and gems across Amsterdam's many independent (and often hidden) "projection rooms".
+📽️ I watch too many movies (check out my [letterboxed](https://letterboxd.com/leonardovida/)!) and organize weekly projections of classics and gems across Amsterdam's many independent (and often hidden) "projection rooms". DM me for more info about it!
 
 <!--
 **leonardovida/leonardovida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
