@@ -1,12 +1,13 @@
-👋 Hi, I'm `Leonardo`, a Data Engineer, builder and movie lover.
+hi I'm `Leonardo`, a solutions engineer, builder and movie lover. when not working at MotherDuck, I enjoy building products. currently I'm focusing on two domains: 
+1. how to build generalizable / easily adaptable agentic loops for economically meaningful tasks. it's is getting clearer that difficulty of generically implementing agentic loops to substitute "white collar" tasks is what is preventing the mass adoption of AI. anthropic's _tasks_ and openai's decision to push for a model with a harness that "is harder to interrupt" (i.e. codex) are the first glimpses towards the future foundation for these loops. this means building solutions that solve problems that MotherDuck requires (issues reproductions, customer support) while experimenting with artifacts creation, reproducibility of the solution, saving traces of the context and reasoning used.
+2. enhancing the DuckDB ecosystem (disclaimer: MotherDuck is a cloud data warhouse built on DuckDB). this mostly is buildings and keeping up-to-date connectors and tools that were abandoned or didn't exist.
 
-✍️ I enjoy building products and solving data problems at scale. I mainly code in Python but I often use Typescript.
+all my work leverages ai. current models in use are:
+- openai's gpt-codex-5.2 (high/xhigh) via the codex harness - for complex tasks, this is my preferred tool
+- opus 4.5 via the claude code harness - main workhorse, great for speed and tool/api use
+- gemini 3 - ui and consistency checks for plans
 
-💡 I enjoy creating side projects using 2-2-2 and I'm all-in using LLMs (OpenAI mainly). I'm currently building `[cv-copilot](https://github.com/leonardovida/cv-copilot)` (a product to match candidates with job descriptions using LLMs to provide 10X more insights than comparable methods). Whenever I have time I continue developing `companio`, a RAG-based trip planner and a chrome extension to search semantically across open browser pages. 
+I'm currently based in Amsterdam (NL). I appreciate remote collaboration for side projects, though I believe full-time work needs to be done in-person.
+I keep track of the movies I watch on [letterboxed](https://letterboxd.com/leonardovida/)! and help(ed) organize weekly projections of classics and gems across Amsterdam's many independent (and often hidden) "projection rooms". A list of of these movies is [here](https://letterboxd.com/leonardovida/list/jeffreys-underground-cinemas/), being updated thanks to OpenAI's structured outputs.
 
-🇳🇱 I'm currently based in Amsterdam (NL) and I ideally prefer a hybrid workplace, but I also appreciate remote collaboration.
-
-📽️ I watch too many movies (check out my [letterboxed](https://letterboxd.com/leonardovida/)!) and organize weekly projections of classics and gems across Amsterdam's many independent (and often hidden) "projection rooms". DM me for more info about it!
-
-<!--
-**leonardovida/leonardovida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**leonardovida/leonardovida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
