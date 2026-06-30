@@ -9,7 +9,7 @@ all my work leverages ai. current models in use are:
 - opus 4.8 (given that fable is gone) - main workhorse, but getting much worse 
 
 I'm currently based in Amsterdam (NL). I appreciate remote collaboration for side projects, though I believe full-time work needs to be done in-person.
-I keep track of the movies I watch on [letterboxed](https://letterboxd.com/leonardovida/)! and help(ed) organize weekly projections of classics and gems across Amsterdam's many independent (and often hidden) "projection rooms". A list of of these movies is [here](https://letterboxd.com/leonardovida/list/jeffreys-underground-cinemas/), being updated thanks to OpenAI's structured outputs.
+I keep track of the movies I watch on [letterboxd](https://letterboxd.com/leonardovida/)! and help(ed) organize weekly projections of classics and gems across Amsterdam's many independent (and often hidden) "projection rooms". A list of of these movies is [here](https://letterboxd.com/leonardovida/list/jeffreys-underground-cinemas/), being updated thanks to OpenAI's structured outputs.
 
 ## Current projects
 - [duckdb-sqlalchemy](https://github.com/leonardovida/duckdb-sqlalchemy) - A modern, feature-full DuckDB engine for SQLAlchemy
