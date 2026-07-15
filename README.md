@@ -1,19 +1,21 @@
-## hi I'm `Leonardo`
+# Hi, I'm Leonardo
 
-I work as solutions engineer at MotherDuck and I enjoy building products. currently I'm focusing on two domains: 
-1. how to build generalizable / easily adaptable agentic loops for economically meaningful tasks. it's is getting clearer that difficulty of generically implementing agentic loops to substitute "white collar" tasks is what is preventing the mass adoption of AI. anthropic's _tasks_ and openai's decision to push for a model with a harness that "is harder to interrupt" (i.e. codex) are the first glimpses towards the future foundation for these loops. this means building solutions that solve problems that MotherDuck requires (issues reproductions, customer support) while experimenting with artifacts creation, reproducibility of the solution, saving traces of the context and reasoning used.
-2. enhancing the DuckDB ecosystem (disclaimer: MotherDuck is a cloud data warhouse built on DuckDB). this mostly is buildings and keeping up-to-date connectors and tools that were abandoned or didn't exist.
+I'm an Account Executive at [MotherDuck](https://motherduck.com), after working as a Senior Customer Engineer. I still spend a lot of my time on the technical side: discovery, architecture, pilots, customer deployments, and building tools when software is the clearest answer.
 
-all my work leverages ai. current models in use are:
-- openai's codex - for coding tasks, this is my preferred tool
-- opus 4.8 (given that fable is gone) - main workhorse, but getting much worse 
+Most of my work falls into two areas:
 
-I'm currently based in Amsterdam (NL). I appreciate remote collaboration for side projects, though I believe full-time work needs to be done in-person.
-I keep track of the movies I watch on [letterboxd](https://letterboxd.com/leonardovida/)! and help(ed) organize weekly projections of classics and gems across Amsterdam's many independent (and often hidden) "projection rooms". A list of of these movies is [here](https://letterboxd.com/leonardovida/list/jeffreys-underground-cinemas/), being updated thanks to OpenAI's structured outputs.
+- **Production agent systems.** I build workflows for issue reproduction, customer support, and analytics. I'm especially interested in tool orchestration, evals, tracing, human approval, and making agent work reproducible.
+- **The DuckDB ecosystem.** I maintain connectors, extensions, and tooling that fill gaps around DuckDB and MotherDuck.
+
+I use AI heavily in both. The model matters, but I'm more interested in whether the resulting system is reliable, inspectable, and useful in real work.
 
 ## Current projects
-- [duckdb-sqlalchemy](https://github.com/leonardovida/duckdb-sqlalchemy) - A modern, feature-full DuckDB engine for SQLAlchemy
-- [drizzle-duckdb](https://github.com/leonardovida/drizzle-duckdb) - A Drizzle adaptor for DuckDB
-- [duckdb-finance](https://github.com/leonardovida/duckdb-finance) - SQL-native finance functions for DuckDB (community extension)
 
-<!--**leonardovida/leonardovida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+- [MotherDuck Agent Skills](https://github.com/motherduckdb/agent-skills) - an open-source catalog that teaches coding agents how to explore schemas, write DuckDB SQL, use the MotherDuck API, and build data applications
+- [drizzle-duckdb](https://github.com/leonardovida/drizzle-duckdb) - a Drizzle ORM adapter for DuckDB
+- [duckdb-sqlalchemy](https://github.com/leonardovida/duckdb-sqlalchemy) - a production-focused SQLAlchemy dialect for DuckDB and MotherDuck
+- [duckdb-finance](https://github.com/leonardovida/duckdb-finance) - SQL-native financial functions for DuckDB
+
+I'm based in Amsterdam. I like collaborating remotely on side projects, although I think full-time teams do their best work together in person.
+
+Outside work, I keep track of films on [Letterboxd](https://letterboxd.com/leonardovida/) and help organize screenings in Amsterdam's independent projection rooms. [Here's the running list](https://letterboxd.com/leonardovida/list/jeffreys-underground-cinemas/).
